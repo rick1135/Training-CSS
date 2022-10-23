@@ -1,0 +1,147 @@
+@media screen and (max-width: 1535px) {
+  #h2-1 {
+    letter-spacing: 15px;
+    font-size: 20px;
+  }
+  #h2-2 {
+    font-size: 65px;
+  }
+}
+@media screen and (max-width: 1425px) {
+  #h2-1 {
+    letter-spacing: 10px;
+    font-size: 20px;
+  }
+  #h2-2 {
+    font-size: 60px;
+  }
+}
+@media screen and (max-width: 1316px) {
+  #h2-1 {
+    letter-spacing: 10px;
+    font-size: 20px;
+  }
+  #h2-2 {
+    font-size: 55px;
+  }
+}
+@media screen and (max-width: 1206px) {
+  #h2-1 {
+    letter-spacing: 10px;
+    font-size: 15px;
+  }
+  #h2-2 {
+    font-size: 50px;
+  }
+}
+@media screen and (max-width: 1100px) {
+  #h2-1 {
+    letter-spacing: 10px;
+    font-size: 15px;
+  }
+  #h2-2 {
+    font-size: 45px;
+  }
+  .headline {
+    flex: 100%;
+    margin: 2.5%;
+    text-align: center;
+  }
+  .headline p {
+    font-size: 15px;
+    text-align: center;
+  }
+}
+@media screen and (max-width: 1005px) {
+  #h2-1 {
+    letter-spacing: 5px;
+    font-size: 15px;
+  }
+  #h2-2 {
+    font-size: 40px;
+  }
+  .contact {
+    padding: 10px;
+  }
+  .headline {
+    flex: 100%;
+    margin: 2.5%;
+    text-align: center;
+  }
+  .headline p {
+    font-size: 15px;
+    text-align: center;
+  }
+  .img-headline {
+    flex: 100%;
+    margin: 5%;
+    text-align: center;
+  }
+}
+@media screen and (max-width: 1055px) {
+  .menu {
+    display: none;
+  }
+  .logo {
+    text-align: center;
+    margin: 0;
+  }
+  .navbar {
+    position: relative;
+    border-bottom: 0;
+  }
+  #h2-1 {
+    letter-spacing: 5px;
+    font-size: 15px;
+  }
+  #h2-2 {
+    font-size: 40px;
+  }
+  .contact {
+    padding: 5px;
+  }
+  .headline {
+    flex: 100%;
+    margin: 2.5%;
+    text-align: center;
+  }
+  .headline p {
+    font-size: 15px;
+    text-align: center;
+  }
+}
+@media screen and (max-width: 880px) {
+  .menu {
+    display: none;
+  }
+  .logo {
+    text-align: center;
+    margin: 0;
+  }
+  .navbar {
+    position: relative;
+    border-bottom: 0;
+  }
+  #h2-1 {
+    letter-spacing: 5px;
+    font-size: 10px;
+  }
+  #h2-2 {
+    font-size: 30px;
+  }
+  .contact {
+    padding: 5px;
+    border-radius: 5px;
+    text-transform: none;
+    font-size: 15px;
+  }
+  .headline p {
+    font-size: 15px;
+    text-align: center;
+  }
+  .headline {
+    flex: 100%;
+    margin: 2.5%;
+    text-align: center;
+  }
+}
